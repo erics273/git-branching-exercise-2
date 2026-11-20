@@ -3,5 +3,6 @@ public class MainClass {
         System.out.println("Hello Team");
         System.out.println(6 + 6);
         System.out.println("This class is cool");
+
     }
 }
